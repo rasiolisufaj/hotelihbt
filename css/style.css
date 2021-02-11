@@ -276,6 +276,21 @@ p {
   border-color: #f7c08a;
 }
 
+#contact-form .button {
+  display: inline-block;
+  font-size: 18px;
+  color: #fff;
+  background: #333;
+  padding: 13px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+#contact-form .button:hover {
+  background: #f7c08a;
+  color: #333;
+}
+
 /* Footer */
 #main-footer {
   text-align: center;
